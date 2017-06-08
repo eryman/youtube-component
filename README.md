@@ -13,11 +13,16 @@ This application is designed to add YouTube videos to a webpage by accessing the
 >  <link href="css/video.css" rel="stylesheet">
 
 * In the body of the HTML, insert the following line wherever you'd like your videos to show up:
+
 >  <div id="videolist"></div>
 
 * At the bottom of the body of the HTML, insert the following lines:
+
 >  <script src="js/jQuery.js"></script>
+
 >  <script src="js/ythelper.js"></script>
+
+* Lastly, all you need to do is edit a few lines in getyoutubedata.php with your own YouTube ID and Google API Key
 
 ### getyoutubedata.php:
 
@@ -25,13 +30,6 @@ This application is designed to add YouTube videos to a webpage by accessing the
 
 * line 4 => API Key from Google API Console
 
-### index.html:
-
-* line 12 => change title
-
-* line 146 => replace bandcamp embed
-
-> other text
 
 
 
