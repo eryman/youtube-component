@@ -18,6 +18,7 @@ This application is designed to add YouTube videos to a webpage by accessing the
 
 * At the bottom of the body of the HTML, insert the following lines:
 
+
 > <script src="js/jQuery.js"></script>
 
 > <script src="js/ythelper.js"></script>
