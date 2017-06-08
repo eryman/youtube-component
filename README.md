@@ -9,6 +9,7 @@ This application is designed to add YouTube videos to a webpage by accessing the
 * Copy/Paste the following files/folders into your page's home directory: css, js, vendor, getyoutubedata.php
 
 * In the head of the HTML, insert the following: 
+
 >  <link href="css/video.css" rel="stylesheet">
 
 * In the body of the HTML, insert the following line wherever you'd like your videos to show up:
@@ -29,6 +30,8 @@ This application is designed to add YouTube videos to a webpage by accessing the
 * line 12 => change title
 
 * line 146 => replace bandcamp embed
+
+> other text
 
 
 
